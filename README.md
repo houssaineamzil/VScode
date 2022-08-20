@@ -13,7 +13,8 @@
 ![Preview](https://media.discordapp.net/attachments/991767169396379798/1010569501542195240/sreenshoot.png?width=754&height=467)
 
 </span>
-## How to run locally?
+
+<h3>How to run locally?</h3>
 
 Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/) installed.
 
