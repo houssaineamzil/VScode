@@ -14,7 +14,7 @@
 
 </span>
 
-<h3>How to run locally?</h3>
+## How to run locally?
 
 Make sure you have [Node](https://nodejs.org/en/) and [git](https://git-scm.com/) installed.
 
