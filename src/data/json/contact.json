@@ -1,0 +1,26 @@
+[
+  {
+    "name": "GitHub",
+    "url": "https://github.com/muhammedia",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/muhampedia/",
+    "icon": ["fab", "instagram"],
+    "isMain": false
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/users/977156734579798016",
+    "icon": ["fab", "discord"],
+    "isMain": false
+  },
+  {
+    "name": "Youtube",
+    "url": "https://www.youtube.com/muhammadmaghribi",
+    "icon": ["fab", "youtube"],
+    "isMain": false
+  }
+]
