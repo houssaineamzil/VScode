@@ -8,7 +8,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/muhammedia/muhammedia/blob/main/LICENSE)
 
-<h2><a href="">LIVE DEMO</a></h2>
+<h2><a href="https://vs-code-orcin.vercel.app/">LIVE DEMO</a></h2>
 
 <p>Personal portfolio website built using ReactJS and having themes like <a href="https://code.visualstudio.com/">Visual Studio Code</a> and <a href="https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark">Atom One Dark Theme</a>.</p>
 
